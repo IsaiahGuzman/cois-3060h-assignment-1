@@ -1,12 +1,12 @@
 // Paragraph selector
-const allParagraphs = document.getElementsByTagName('p');
+const p = document.querySelector('p');
 
 // Add the class when the mouse enters
-allParagraphs.addEventListener('mouseover', () => {
-  allParagraphs.classList.add('p-hovered');
+p.addEventListener('mouseover', () => {
+  p.classList.add('p-hovered');
 });
 
 // Remove the class when the mouse leaves
-allParagraphs.addEventListener('mouseout', () => {
-  allParagraphs.classList.remove('p-hovered');
+p.addEventListener('mouseout', () => {
+  p.classList.remove('p-hovered');
 });
