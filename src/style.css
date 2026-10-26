@@ -1,1 +1,8 @@
+/* Test styling */
+.p-hovered {
+  text-decoration: underline;
+}
 
+p {
+  text-color: red;
+}
