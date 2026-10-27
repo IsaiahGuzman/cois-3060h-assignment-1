@@ -9,7 +9,8 @@ This project aims to develop a single-page web application to serve as a knowled
 - "Links" are responsive and reveal the appropriate section content
   - Data Sources is complete with information
 - Simple, responsive CSS
-  - Addresses Milestone 6
+  - Page is readable in a variety of viewport sizes
+  - Sans-Serif font and accessible color palette facilitate readability
 
 ## Future Work
 - Add "Collection Methods" content requested by MSR Group Lead (Milestone 3)
