@@ -1,5 +1,8 @@
 # Test Checklist
 
+## Testing Files
+- script.test.js can be fount in corresponding test branches
+
 ## Manual Testing
 
 1. click each tab to verify content and content headers display accordingly
